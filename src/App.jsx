@@ -11,7 +11,7 @@ const studentData = {
   department: "BSc Computer Science",
   email: "rayeenrahman1@gmail.com",
   phone: "01716950416",
-  image: "https://api.dicebear.com/9.x/adventurer/svg?seed=Rayeen&backgroundColor=b6e3f4",
+  image: "https://api.dicebear.com/9.x/avataaars/svg?seed=RayeenCoder&backgroundColor=b6e3f4&accessories=kurt&clothingColor=262e33&eyes=default&eyebrows=defaultNatural&mouth=smile",
   isActive: true,
 };
 
