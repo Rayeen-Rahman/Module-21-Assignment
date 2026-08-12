@@ -6,12 +6,12 @@ import Footer from "./components/Footer";
 
 // ── Student data defined in App and passed down via props ────
 const studentData = {
-  name: "Ahmed Rahman",
-  studentId: "STU-2024-0042",
+  name: "Rayeen Rahman",
+  studentId: "24-57431-2",
   department: "BSc Computer Science",
-  email: "ahmed.rahman@university.edu",
-  phone: "+880 1712-345678",
-  image: "https://api.dicebear.com/9.x/adventurer/svg?seed=Ahmed&backgroundColor=b6e3f4",
+  email: "rayeenrahman1@gmail.com",
+  phone: "01716950416",
+  image: "https://api.dicebear.com/9.x/adventurer/svg?seed=Rayeen&backgroundColor=b6e3f4",
   isActive: true,
 };
 
